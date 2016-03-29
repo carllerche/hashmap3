@@ -1,0 +1,8 @@
+[package]
+name = "hashmap3"
+version = "0.1.0"
+authors = ["Carl Lerche <me@carllerche.com>"]
+
+[dependencies]
+rand = "0.3.14"
+hash-table = { git = "https://github.com/carllerche/hash-table" }
